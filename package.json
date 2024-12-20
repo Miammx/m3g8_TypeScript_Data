@@ -1,0 +1,16 @@
+{
+  "name": "m3g8_typescript-introduction---data-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
